@@ -18,17 +18,17 @@
 
 ### Key Features
 
-**Unity-like Editor Experience** - Hierarchy panel, inspector, asset management with familiar workflow
+- **Unity-like Editor Experience** - Hierarchy panel, inspector, asset management with familiar workflow
 
-**Editor-Runtime Separation** - Exported games run independently without editor dependencies
+- **Editor-Runtime Separation** - Exported games run independently without editor dependencies
 
-**Cross-Platform Support** - Web version + Electron desktop apps (Windows / macOS / Linux)
+- **Cross-Platform Support** - Web version + Electron desktop apps (Windows / macOS / Linux)
 
-**Plugin System** - Extensible plugin architecture for custom features and themes
+- **Plugin System** - Extensible plugin architecture for custom features and themes
 
-**Internationalization** - Built-in multi-language support (Chinese, English, Japanese, Russian, Latin)
+- **Internationalization** - Built-in multi-language support (Chinese, English, Japanese, Russian, Latin)
 
-**One-Click Export** - Export as standalone web games or desktop applications
+- **One-Click Export** - Export as standalone web games or desktop applications
 
 ---
 
@@ -52,9 +52,11 @@ pnpm run desktop
 
 <div align="center">
 
+<img src="NEKO-LOGO.svg" alt="NEKO-LOGO" height="35px">
+
 **Made with love by Cyberexplorer**
 
-*Just like [NOTHING](https://github.com/NeuronPulse/nothing), this is a joking project.*
+<small>*Just like [NOTHING](https://github.com/NeuronPulse/nothing), this is a Joking Toy.*</small>
 
 </div>
 
